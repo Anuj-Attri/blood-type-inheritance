@@ -11,5 +11,4 @@ For evaluation, the program needs to pass the following parameters:
 	 * Accurate percentage for each resulting blood type.
 
 
-Credit: Grace Murphy (@Greyys)
-				Anuj Attri (@AnujAttri)
+Credit: Anuj Attri (Anuj-Attri)
